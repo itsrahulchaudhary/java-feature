@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.rahul</groupId>
-	<artifactId>java-8-feature-practise</artifactId>
+	<artifactId>java-feature</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>java-8-feature-practise</name>
 	<description>This app is used for java-8 feature practise purpose only</description>

@@ -12,6 +12,7 @@ import java.util.List;
 public class EmployeeDatabase {
 
     public static List<Employee> fetchEmployees() {
+    	System.out.println("demo-1");
         ObjectMapper mapper = new ObjectMapper();
         try {
             return mapper
